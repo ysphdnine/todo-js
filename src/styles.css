@@ -55,7 +55,7 @@ button:hover {
   color: #666;
 }
 
-.list-row {
+.list-content {
   display: flex;
   align-items: center;
   padding-bottom: 4px;
